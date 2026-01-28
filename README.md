@@ -38,6 +38,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (Senac) e **Ciência de 
  **Como me encontrar:**
 [LinkedIn](https://www.linkedin.com/in/sabrina-alves-041221236/)
 
-##  Linguagens mais utilizadas:
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SabAlvesa&layout=compact&langs_count=8&theme=tokyonight)
 
