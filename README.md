@@ -15,6 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Linguagens mais utilizadas:
+
+# Olá, eu sou a Sabrina! 
+
+Estudante de **Análise e Desenvolvimento de Sistemas** (Senac) e **Ciência de Dados** (Univesp). 
+
+---
+
+####  Linguagens de Programação & Web
+- **Linguagens:** Python, Java, C#, JavaScript (JS)
+- **Web:** HTML5, CSS3
+
+#### Dados & Business Intelligence
+- **Análise:** Pandas, SQL (MySQL)
+- **Ferramentas:** Looker Studio (Relatórios Multipáginas), Google Sheets, Excel
+
+####  Ferramentas & Ambiente
+- **Ambientes:** Google Colab, VS Code
+- **Versionamento:** Git & GitHub
+
+---
+ **Como me encontrar:**
+[LinkedIn](https://www.linkedin.com/in/sabrina-alves-041221236/)
+
+##  Linguagens mais utilizadas:
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SabAlvesa&layout=compact&langs_count=8&theme=tokyonight)
 
