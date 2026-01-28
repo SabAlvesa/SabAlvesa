@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SabAlvesa/SabAlvesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (Senac) e **Ciência de 
 
 #### Dados & Business Intelligence
 - **Análise:** Pandas, SQL (MySQL)
-- **Ferramentas:** Looker Studio (Relatórios Multipáginas), Google Sheets, Excel
+- **Ferramentas:** Looker Studio (Relatórios Multipáginas), Google Sheets, Excel, Power BI
 
 ####  Ferramentas & Ambiente
 - **Ambientes:** Google Colab, VS Code
