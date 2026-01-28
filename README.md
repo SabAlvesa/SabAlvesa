@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Olá, eu sou a Sabrina! 
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (Senac) e **Ciência de Dados** (Univesp). 
+Estudante de **Análise e Desenvolvimento de Sistemas** (Senac) 
 
 ---
 
