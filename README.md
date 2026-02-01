@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Olá, eu sou a Sabrina! 
+# Oii, eu sou a Sabrina! 
 
 Estudante de **Análise e Desenvolvimento de Sistemas** (Senac) 
 
